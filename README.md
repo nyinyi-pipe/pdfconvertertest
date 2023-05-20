@@ -5,6 +5,17 @@
 npm install
 ```
 
+##
+```
+npm install pdfjs-dist
+```
+
+##
+```
+npm install --save-dev @babel/plugin-proposal-private-methods
+```
+
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
